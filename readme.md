@@ -7,7 +7,7 @@
 
 
 
-## _Project contains two html files: My-First-Webpage, our "hello world" which links to our other projects from the day, and Favorite-Things, a page built to practice writing lists and including inline images._
+### _Project contains two html files: My-First-Webpage, our "hello world" which links to our other projects from the day, and Favorite-Things, a page built to practice writing lists and including inline images._
 
 
 ##  Setup and Installation:
